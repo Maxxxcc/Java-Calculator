@@ -82,10 +82,10 @@
                                   </Group>
                                   <EmptySpace type="separate" max="-2" attributes="0"/>
                                   <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                                      <Component id="jButton12" max="32767" attributes="0"/>
                                       <Component id="jButtonsub" max="32767" attributes="0"/>
-                                      <Component id="jButton12" pref="0" max="32767" attributes="0"/>
                                   </Group>
-                                  <EmptySpace type="separate" max="-2" attributes="0"/>
+                                  <EmptySpace min="-2" pref="14" max="-2" attributes="0"/>
                                   <Component id="jButtonmult" min="-2" max="-2" attributes="0"/>
                                   <EmptySpace type="separate" max="-2" attributes="0"/>
                                   <Component id="jButtondiv" min="-2" max="-2" attributes="0"/>
@@ -306,7 +306,7 @@
     </Component>
     <Component class="javax.swing.JButton" name="jButton12">
       <Properties>
-        <Property name="text" type="java.lang.String" value="jButton12"/>
+        <Property name="text" type="java.lang.String" value="&#x221a;"/>
       </Properties>
     </Component>
   </SubComponents>
